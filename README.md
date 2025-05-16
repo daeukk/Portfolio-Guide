@@ -30,6 +30,6 @@ This includes a summary of my projects.
 
 | Project Link | Area | Project Description |  
 |---|---|---|
-| ⚙️ [Feature Selection](https://github.com/daeukk/Feature-Selection) | This MATLAB code performs feature selection using three algorithms: Neighborhood Component Analysis (NCA), Minimum Redundancy Maximum Relevance (mRMR), and ReliefF. |
+| ⚙️ [Feature Selection](https://github.com/daeukk/Feature-Selection) | Feature Engineering | This MATLAB code performs feature selection using three algorithms: Neighborhood Component Analysis (NCA), Minimum Redundancy Maximum Relevance (mRMR), and ReliefF. |
 
 ***
