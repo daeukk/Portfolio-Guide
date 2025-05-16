@@ -10,7 +10,7 @@ This includes a summary of my projects.
 # Python
 
 | Project Link | Area | Project Description | Libraries | 
-|---|---|---|
+|---|---|---|---|
 | 📈 [Data Smoothing using Kalman Filter](https://github.com/daeukk/Data-Smoothing-Using-Kalman-Filter) | Feature Engineering | Removed outliers and smooths the data by applying the Kalman filter. In this implementation, the Kalman filter was imported from the Python library 'Pykalman'. | pandas, numpy, pykalman |
 | 🤖 [Training Models](https://github.com/daeukk/Training-Models) | Machine Learning | Trained three different machine learning models—Multilayer Perceptron (MLP), eXtreme Gradient Boosting (XGBoost), and Random Forest (RF)—to predict pH levels based on a dataset of extracted color channel values. | pandas, numpy, matplotlib, tensorflow, scikit-learn |
 | 🦠 [Chronic Wound Detection using YOLO](https://github.com/daeukk/Chronic-Wound-Detection-Using-YOLO) | Machine Learning, Computer Vision | Aimed to detect chronic wounds using YOLOv7 and YOLOv8, and compare the results. | ultralytics, torch |
@@ -29,7 +29,7 @@ This includes a summary of my projects.
 # Matlab
 
 | Project Link | Area | Project Description |  
-|---|---|---|---|
+|---|---|---|
 | ⚙️ [Feature Selection](https://github.com/daeukk/Feature-Selection) | This MATLAB code performs feature selection using three algorithms: Neighborhood Component Analysis (NCA), Minimum Redundancy Maximum Relevance (mRMR), and ReliefF. |
 
 ***
